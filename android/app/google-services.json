@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630435776416",
+    "project_id": "daily2kart-6c635",
+    "storage_bucket": "daily2kart-6c635.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630435776416:android:151c1870b537a6796d06c5",
+        "android_client_info": {
+          "package_name": "com.daily2kart.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtw8R2iK1BcUrS1Sy5E7CuqNkMNJSARzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
