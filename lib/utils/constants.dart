@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:eshop_pro/data/repositories/authRepository.dart';
 import 'package:eshop_pro/utils/labelKeys.dart';
 
-const String baseUrl = "https://eshop-pro.eshopweb.store";
+const String baseUrl = "https://daily2kart.com";
 const String databaseUrl = "$baseUrl/api/";
 
 const bool isDemoApp = true;
