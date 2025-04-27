@@ -1,12 +1,10 @@
 buildscript {
-    ext.kotlin_version = '1.8.22'
+    ext.kotlin_version = '1.8.10'
 
     repositories {
         google()
         mavenCentral()
-    }
-
-      
+    }   
 }
 allprojects {
    

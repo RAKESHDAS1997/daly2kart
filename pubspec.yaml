@@ -71,7 +71,7 @@ dependencies:
   #   git:
   #     url: https://github.com/mohammadhprp/flutter_html_to_pdf2
   razorpay_flutter: ^1.3.0
-  flutter_paystack: ^1.0.7
+  flutter_paystack: any
   flutter_stripe: ^11.2.0
   phonepe_payment_sdk: ^2.0.2
   paypal_sdk: ^1.0.8  
